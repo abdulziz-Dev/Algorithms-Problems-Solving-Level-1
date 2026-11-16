@@ -1,4 +1,4 @@
-Algorithms-Problem-Solving-Level-1
+Algorithms-Problem-Solving-Level-1 :
 
 > 50 Problem Solutions | Algorithms & Problem Solving | C++ | Clean Code
 
@@ -8,7 +8,7 @@ All problems are solved in |C++| with clean, simple and readable code, focusing 
 
 ---
 
-📂 Structure
+📂 Structure:
 
 - Problems #01 to #05
 - Problems #06 to #10
@@ -23,14 +23,14 @@ All problems are solved in |C++| with clean, simple and readable code, focusing 
 
 ---
 
-🛠️ Technologies
+🛠️ Technologies:
 
 - Language: C++
 - IDE: Visual Studio
 
 ---
 
-🎯 What I Learned
+🎯 What I Learned:
 
 1. Functions & Procedures
 2. If - Else / Switch - Case
@@ -40,7 +40,7 @@ All problems are solved in |C++| with clean, simple and readable code, focusing 
 
 ---
 
-👤 Author
+👤 Author:
 
 *Abdulaziz* - GitHub: [@abdulziz-Dev](https://github.com/abdulziz-Dev)
 
