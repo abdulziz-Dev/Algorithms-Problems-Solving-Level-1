@@ -4,7 +4,7 @@ Algorithms-Problem-Solving-Level-1 :
 
 This repository contains my solutions for Level 1 of the Algorithms & Problem Solving course.
 
-All problems are solved in |C++| with clean, simple and readable code, focusing on logic building and problem-solving fundamentals.
+All problems are solved in C++ with clean, simple and readable code, focusing on logic building and problem-solving fundamentals.
 
 ---
 
